@@ -21,7 +21,7 @@ const WellBeingSection = () => {
             <div className="flex flex-col md:flex-row justify-center items-stretch flex-wrap gap-12 px-5 lg:px-0">
                 {/* Physical Well-Being Card */}
                 <div className="flex-1 max-w-md bg-white rounded-xl shadow-lg hover:shadow-2xl transition duration-300 transform hover:scale-105 p-8 text-center">
-                    <img src="/images/PhysicalWellBeing.jpg" alt="Physical Well-Being" className="h-72 w-full object-cover rounded-lg mb-6" />
+                    <img src="/images/PhysicalWellbeing.jpg" alt="Physical Well-Being" className="h-72 w-full object-cover rounded-lg mb-6" />
                     <h3 className="text-2xl font-bold text-blue-500 mb-4">Physical Well-Being</h3>
                     <p className="text-gray-600">
                         Engage in regular physical activity to boost your cognitive function and concentration. Short breaks with stretching or exercise can enhance memory retention and learning speed.
