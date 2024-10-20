@@ -32,7 +32,7 @@ const Resources = () => {
         {
             title: "CHEMICAL BONDING in 85 Minutes || Full Chapter Revision || Class 11th JEE",
             description: "In this video, Om sir will discuss the complete chapter of Chemical Bonding for Class 11th JEE. This video is very helpful for students preparing for JEE Exam. Watch the video till the end to understand the concept of Chemical Bonding.",
-            image: "https://i.ytimg.com/vi/Dk-ZqQ-bfy4/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBkzpPQnrY8qND7OUyC9sUNlebRag",
+            image: "https://i.ytimg.com/vi/gcx8-VOoegg/hq720.jpg?sqp=-oaymwEcCK4FEIIDSEbyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpuLqVNH10zAXyB11HoTrU5GGh2A",
             url: "gcx8-VOoegg"
         },
     ]
